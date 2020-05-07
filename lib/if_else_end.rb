@@ -1,7 +1,6 @@
 # Write your solution here
-inside= false
-puts "Code before"
-if inside
+x=true
+if x
   puts "inside"
 end 
 puts "code after"
