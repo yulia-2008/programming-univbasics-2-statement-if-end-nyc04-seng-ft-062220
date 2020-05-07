@@ -1,5 +1,5 @@
 # Write your solution here
-inside= true 
+inside= false
 puts "Code before"
 if inside
   puts "inside"
