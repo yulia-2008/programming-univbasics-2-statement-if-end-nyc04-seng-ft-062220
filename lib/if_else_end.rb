@@ -1,5 +1,5 @@
 # Write your solution here
-x=true
+x=5
 if x
   puts "inside"
 end 
