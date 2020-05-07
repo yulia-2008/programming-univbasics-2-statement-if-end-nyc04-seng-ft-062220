@@ -1,6 +1,3 @@
-# Write your solution here
-x=5
-if x
-  puts "inside"
-end 
-puts "code after"
+puts "What yoar?"
+year=2019 
+puts "it's 209" if year==2019
